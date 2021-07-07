@@ -1,0 +1,19 @@
+KD04 Goi Hon 1 2/4/1998 Trinh Le Chieu 208
+TC01 Tim Kiem 2 2/3/2004 Nguyen Tac 468
+KD05 Oan Nghiet 1 4/2/2003 Trinh Nhan 287
+KD03 Gap Quy Giua Dem 1 1/4/1993 Giai Le 873
+HD03 Quyen Ba Thien Ha 3 3/4/2004 Tam Gioi 2004
+TT04 Trong Sinh 4 3/5/2005 Duong Dan 176
+OT02 Choi Oi Cai Quan Que Gi Zay 0 4/6/2005 Cong Dong 3487
+TT01 Dau Pha Thuong Khung 4 4/1/2004 Gia Han 3247
+TT02 Tam Gioi Truong Sinh 4 2/6/2006 Khac Viet 284
+HD01 Dan Diep Hai Mang 3 2/4/2013 Sowat 2849
+HD02 Cuoc Chien Toi Thuong 3 2/4/1094 Nguyen Hoang Anh 389
+TC03 Chuyen Tinh Yeu 2 20/3/2008 Ngo Cam Hung 349
+TT07 Tro Lai Di Gioi 4 2/4/2005 Ong Lang Tuong 1892
+OT01 Eo Hieu Kieu Gi 0 2/3/1093 Ngo Huynh Phuong 12
+HD04 Chuot Muoi 3 24/2/2010 Trinh Cong Tham 8394
+TC02 Tron Tim 2 3/1/2005 Dinh Cong Van 270
+TT05 Yeu Than Ky 4 8/10/1994 Tam Dong 3803
+KD06 Truyen Ma Dem Khuya 1 29/2/1940 Truyen Tranh AuDio 346
+KD08 Ma Quai 1 28/1/2004 Dang Truong Son 2034
